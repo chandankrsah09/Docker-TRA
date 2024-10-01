@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/docker-reverse-proxy.git
+git clone https://github.com/chandankrsah09/docker-reverse-proxy.git
 cd docker-reverse-proxy
 Build and run the Docker containers:
 
